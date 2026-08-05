@@ -1,20 +1,4 @@
-<div align="center">
-  <svg width="100%" height="80" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .header-text {
-        font-family: 'Segoe UI', Ubuntu, sans-serif;
-        font-weight: 700;
-        font-size: 32px;
-        fill: #38BDF8;
-      }
-      .sub-text {
-        font-family: 'Segoe UI', Ubuntu, sans-serif;
-        font-weight: 400;
-        font-size: 16px;
-        fill: #94A3B8;
-      }
-    </style>
-    <text x="50%" y="35" text-anchor="middle" class="header-text">Hi, I'm Usharvi Banerji 👋</text>
+>Hi, I'm Usharvi Banerji 👋</text>
     <text x="50%" y="65" text-anchor="middle" class="sub-text">Computational Biology Researcher & Bioinformatician</text>
   </svg>
 </div>
