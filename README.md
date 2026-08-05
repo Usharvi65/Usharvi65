@@ -1,4 +1,5 @@
 ### Hi I am Usharvi Banerji 
+![Usharvi Banerji](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=true&width=450&lines=Hi+I+am+Usharvi+Banerji)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/usharvi-banerji-5b8a17328)
