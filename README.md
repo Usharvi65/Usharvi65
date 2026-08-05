@@ -37,6 +37,3 @@ Pre-final year **B.Tech Biotechnology student** and computational biology resear
 
 ---
 
-<div align="center">
-  <sub>⚡ Powered by GitHub Markdown</sub>
-</div>
