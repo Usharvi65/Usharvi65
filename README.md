@@ -1,12 +1,28 @@
-<!-- HEADER ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Usharvi+Banerji+👋;Computational+Biology+Researcher;Bridging+Wet-Lab+With+Data+Science" alt="Typing SVG" />
+  <svg width="100%" height="80" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .header-text {
+        font-family: 'Segoe UI', Ubuntu, sans-serif;
+        font-weight: 700;
+        font-size: 32px;
+        fill: #38BDF8;
+      }
+      .sub-text {
+        font-family: 'Segoe UI', Ubuntu, sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        fill: #94A3B8;
+      }
+    </style>
+    <text x="50%" y="35" text-anchor="middle" class="header-text">Hi, I'm Usharvi Banerji 👋</text>
+    <text x="50%" y="65" text-anchor="middle" class="sub-text">Computational Biology Researcher & Bioinformatician</text>
+  </svg>
 </div>
 
 <div align="center">
 
   <!-- SOCIAL BADGES -->
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:usharvibanerji@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
@@ -32,37 +48,11 @@ Pre-final year **B.Tech Biotechnology student** and computational biology resear
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <!-- Skill Icons Generator -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,git,github,linux,vscode,dockers" alt="Tech Stack Icons" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Usharvi65&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usharvi65&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usharvi65&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+* **Languages:** `Python` • `Bash`
+* **Focus Areas:** `Metagenomics` • `Molecular Modeling` • `Multi-Omics` • `Machine Learning`
 
 ---
 
 <div align="center">
-  <sub>⚡ Powered by Markdown & GitHub Profile Analytics</sub>
+  <sub>⚡ Powered by GitHub Markdown</sub>
 </div>
